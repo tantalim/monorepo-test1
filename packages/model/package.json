@@ -1,0 +1,12 @@
+{
+  "name": "@my/model",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "compile": "tsc -noEmit"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.10.6"
+  }
+}
